@@ -28,5 +28,26 @@ width: 100%;
     background-color: whitesmoke;
     border-radius: 20px;
     padding: 10px 15px;
+}
+.all-two{
+    display: flex;
+    width: 30%;
+    margin: 0 auto;
+    border-radius: 10px;
+   padding-top: 50px;
+   margin-top: 20px;
+    justify-content: space-between;
+    box-shadow: 10px 5px 12px gray;
+}
+.apple-image img{
+    width: 220px;
+    height: 300px;
 
+}
+.iPhone{
+    text-decoration: none;
+    color: rgb(78, 78, 230);
+}
+.last-div{
+    display: flex;
 }
